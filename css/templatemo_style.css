@@ -3,9 +3,9 @@ Raleway Template
 http://www.templatemo.com/preview/templatemo_421_raleway
 */
 
-@import url(http://fonts.googleapis.com/css?family=Roboto:100,400,300,500,700);
+@import url(//fonts.googleapis.com/css?family=Roboto:100,400,300,500,700);
 
-@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(//fonts.googleapis.com/css?family=Montserrat:400,700);
 
 .overlay h4 {
     position: relative;
@@ -270,7 +270,9 @@ h2.welcome-title {
 
 .project-item img {
     width: 180px;
-    margin-left: 32px;
+    height: 180px;
+    margin-left: auto;
+    margin-right: auto;
     display: block;
 }
 
