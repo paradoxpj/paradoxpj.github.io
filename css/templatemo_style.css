@@ -250,7 +250,7 @@ h2.welcome-title {
 }
 
 .project-title {
-    padding: 60px;
+    padding: 60px 60px 35px 60px;
     background: #46494f;
     margin-bottom: 20px;
     -moz-animation-delay: 0.5s;
@@ -820,7 +820,7 @@ span.solid-line {
 
 .main-footer .social li {
     display: inline-block;
-    margin: 0 30px 15px 15px;
+    margin: 0 30px 30px 15px;
 }
 
 .main-footer .social li a {
@@ -976,6 +976,7 @@ span[class*="border-"] {
     font-size: 12px;
     padding: 10px 15px;
     margin-right: 25px;
+    margin-bottom: 25px;
     display: inline-block;
     background: #a95bc3;
     font-weight: normal;
